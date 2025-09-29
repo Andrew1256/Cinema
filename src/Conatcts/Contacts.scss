@@ -1,0 +1,39 @@
+.contacts__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 30px;
+}
+
+.conacts-block {
+  width: 300px;
+  height: 300px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border: 3px solid #20201f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.social {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #d1bb67;
+  display: flex;
+  justify-content: center;
+}
+
+.social__icon {
+  width: 50px;
+  cursor: pointer;
+}
