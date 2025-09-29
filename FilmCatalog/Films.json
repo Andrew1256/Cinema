@@ -1,0 +1,104 @@
+{
+  "movies": [
+    {
+      "title": "Дюна: Частина Два",
+      "description": "Пауль атрідів об'єднується з прибічниками фременів, щоб помститися за смерть своєї сім'ї та запобігти майбутньому, яке він бачив у своїх видіннях.",
+      "sessions": [
+        "14:30",
+        "10:00"
+      ],
+      "link": "/movies/dune-part-two",
+      "image": "https://playua.net/wp-content/uploads/2024/02/dune-2-site.jpg",
+      "text": "Дюна: Частина Два — Пауль атрідів об'єднується з прибічниками фременів, щоб помститися за смерть своєї сім'ї та запобігти майбутньому, яке він бачив у своїх видіннях."
+    },
+    {
+      "title": "Мавка: Лісова пісня",
+      "description": "Адаптація відомої української казки з новим прочитанням і яскравою анімацією.",
+      "sessions": [
+        "17:00",
+        "20:16"
+      ],
+      "link": "/movies/mavka",
+      "image": "https://www.cinema.in.ua/wp-content/uploads/2029/12/336064816_662593272292223_4947495223951911749_n.jpg",
+      "text": "Мавка: Лісова пісня — Адаптація відомої української казки з новим прочитанням і яскравою анімацією."
+    },
+    {
+      "title": "Вонка",
+      "description": "Андеграунд-історія Вонки, розповідає про становлення знаменитого шоколадного майстра.",
+      "sessions": [
+        "13:00",
+        "15:30"
+      ],
+      "link": "/movies/wonka",
+      "image": "https://images.unian.net/photos/2023_12/1701878704-9829.jpg?r=881373",
+      "text": "Вонка — Андеграунд-історія Вонки, розповідає про становлення знаменитого шоколадного майстра."
+    },
+    {
+      "title": "Барбі",
+      "description": "Барбі вирушає у світ людей, щоб знайти сенс свого існування у веселій пригодницькій комедії.",
+      "sessions": [
+        "12:00",
+        "18:45"
+      ],
+      "link": "/movies/barbie",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.CZCC9jXKtjsAwTdtGTC1VwHaDt?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "text": "Барбі — Барбі вирушає у світ людей, щоб знайти сенс свого існування у веселій пригодницькій комедії."
+    },
+    {
+      "title": "Оппенгеймер",
+      "description": "Біографічна драма про створення атомної бомби під час Другої світової війни.",
+      "sessions": [
+        "11:00",
+        "21:00"
+      ],
+      "link": "/movies/oppenheimer",
+      "image": "https://api.vkino.com.ua/posters/86/86199f5194a15d04b66d4d64a781519a4db1294b.C1920x1080.jpg",
+      "text": "Оппенгеймер — Біографічна драма про створення атомної бомби під час Другої світової війни."
+    },
+    {
+      "title": "Людина-павук: Крізь всесвіт",
+      "description": "Майлз Моралес потрапляє у багатовимірну мережу Людей-павуків, щоб урятувати всі світи.",
+      "sessions": [
+        "16:20",
+        "19:40"
+      ],
+      "link": "/movies/spider-verse",
+      "image": "https://api.vkino.com.ua/posters/94/9450ea97556d0b5cb13917edcc31d3a19f2aec10.C1920x1080.jpg",
+      "text": "Людина-павук: Крізь всесвіт — Майлз Моралес потрапляє у багатовимірну мережу Людей-павуків, щоб урятувати всі світи."
+    },
+    {
+      "title": "Король Лев (ремейк)",
+      "description": "Фотореалістична адаптація класичного мультфільму про пригоди Сімби.",
+      "sessions": [
+        "09:30",
+        "14:00"
+      ],
+      "link": "/movies/lion-king",
+      "image": "https://th.bing.com/th/id/R.e62b6b5ca3db5b435efb02cc74c8eb95?rik=EtZYf4Ej8UqMNA&pid=ImgRaw&r=0",
+      "text": "Король Лев (ремейк) — Фотореалістична адаптація класичного мультфільму про пригоди Сімби."
+    }
+  ],
+  "coming_soon": [
+    {
+      "title": "Аватар 3",
+      "link": "/movies/avatar-3",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.CZCC9jXKtjsAwTdtGTC1VwHaDt?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "title": "Джокер 2",
+      "link": "/movies/joker-2",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.CZCC9jXKtjsAwTdtGTC1VwHaDt?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "title": "Гаррі Поттер: Перезапуск",
+      "link": "/movies/harry-potter-reboot",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.CZCC9jXKtjsAwTdtGTC1VwHaDt?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "title": "Володар перснів: Нова сага",
+      "link": "/movies/lotr-new-saga",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.CZCC9jXKtjsAwTdtGTC1VwHaDt?rs=1&pid=ImgDetMain&o=7&rm=3"
+    }
+  ]
+}
+
