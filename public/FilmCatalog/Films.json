@@ -8,7 +8,7 @@
         "10:00"
       ],
       "link": "/movies/pacific",
-      "image": "public/Film-Image/Art_7.png",
+      "image": "./Film-Image/Art_7.png",
       "text": "Тихий океан — поетичний фільм про гармонію між людиною та океаном, де тиша говорить голосніше за слова."
     },
     {
@@ -19,7 +19,7 @@
         "20:16"
       ],
       "link": "/movies/art",
-      "image": "public/Film-Image/Art_11.png",
+      "image": "./Film-Image/Art_11.png",
       "text": "Мистецтво — кіноподорож у світ уяви, де фарби оживають, а емоції перетворюються на історії."
     },
     {
@@ -30,7 +30,7 @@
         "15:30"
       ],
       "link": "/movies/last-journey",
-      "image": "public/Film-Image/Art_9.png",
+      "image": "./Film-Image/Art_9.png",
       "text": "The Last Journey — глибокий фільм про пошук сенсу й примирення з власним минулим."
     }
   ]
