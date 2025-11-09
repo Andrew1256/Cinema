@@ -14,7 +14,7 @@ export const Schedule = () => {
     }
 
     useEffect(() => {
-        fetch("./public/FilmCatalog/Films.json")
+        fetch("./FilmCatalog/Films.json")
             .then(res => res.json())
             .then((data) => setFilms(data.movies))
             .catch((err) => console.error("Error fetching films:", err))

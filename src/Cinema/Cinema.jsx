@@ -52,7 +52,7 @@ export const Cinema = () => {
                     <MapContainer
                         center={[49.233083, 28.481994]}
                         zoom={13}
-                        style={{height: "400px", width: "600px", marginTop: "50px", marginBottom: "100px"}}
+                        style={{height: "400px", width: "600px", marginTop: "100px", marginBottom: "100px"}}
                     >
                         <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"/>
 

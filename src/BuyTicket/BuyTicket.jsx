@@ -18,7 +18,7 @@ export const BuyTicket = ({pickSeance, setPickSeance, time, setTime}) => {
                 <h1>{pickSeance.title}</h1>
                 <button className="close-button"
                         onClick={() => Close()}>
-                    <img className="close-image" src="close-x.svg"
+                    <img className="close-image" src="public/SideImage/close-x.svg"
                          alt="close"/></button>
             </div>
             <h1 className="time">{time}</h1>
@@ -31,7 +31,7 @@ export const BuyTicket = ({pickSeance, setPickSeance, time, setTime}) => {
                 <input type="email" className="input-email input"/>
             </div>
             <div className="button-block">
-                <button className="form__button" onClick={() => Click()}>Buy</button>
+                <button className="form__button" onClick={() => Click()}>Купити</button>
             </div>
         </div>
     )

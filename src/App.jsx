@@ -1,4 +1,4 @@
-import {Outlet} from "react-router-dom";
+import {Link, Outlet} from "react-router-dom";
 import {useEffect, useState} from "react";
 import './App.scss'
 import {BenefitsComponent} from "./BenefitsComponent/BenefitsComponent.jsx";
@@ -7,7 +7,7 @@ export const App = () => {
     const [benefits, setBenefits] = useState(null);
 
     useEffect(() => {
-        fetch("./public/benefits.json")
+        fetch("./Benefits.json")
             .then((res) => res.json())
             .then((data) => setBenefits(data))
             .catch((err) => console.error("Error fetching benefits:", err))
@@ -20,7 +20,9 @@ export const App = () => {
 
             <div className="slider">
                 <h1 className="slider__title">Твоє кіно y Вінниці</h1>
-                <button className="slider__button">Дивитись розклад</button>
+                <Link to="/schedule">
+                    <button className="slider__button">Дивитись розклад</button>
+                </Link>
                 <img src="SideImage/Art_01.png" alt="Попкорн" className="slider__image slider__image-side-1"/>
 
                 <img src="SideImage/Art_01.png" alt="Попкорн" className="slider__image slider__image-side-2"/>
