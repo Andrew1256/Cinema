@@ -7,7 +7,7 @@ import classNames from "classnames";
 export const Navbar = () => {
     return (
         <nav className='navbar'>
-            <Link to='/'><img className="logo" src="public/SideImage/Logo.png" alt="Logo"/></Link>
+            <Link to='/'><img className="logo" src="./SideImage/Logo.png" alt="Logo"/></Link>
             <ul className="navigation">
                 <li className="navigation__text"><NavLink
                     className={({isActive}) => classNames("link", {"is-active": isActive})}

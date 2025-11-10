@@ -18,7 +18,7 @@ export const BuyTicket = ({pickSeance, setPickSeance, time, setTime}) => {
                 <h1>{pickSeance.title}</h1>
                 <button className="close-button"
                         onClick={() => Close()}>
-                    <img className="close-image" src="public/SideImage/close-x.svg"
+                    <img className="close-image" src="./SideImage/close-x.svg"
                          alt="close"/></button>
             </div>
             <h1 className="time">{time}</h1>
