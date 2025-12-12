@@ -20,7 +20,7 @@ export const App = () => {
 
             <div className="slider">
                 <h1 className="slider__title">Твоє кіно y Вінниці</h1>
-                <img src="./Cinema/Gif-animation.gif" className="gif-animation"></img>
+                <img src="./Cinema/gif_finish.gif" className="gif-animation"></img>
 
                 <Link to="/schedule">
                     <button className="slider__button">Дивитись розклад</button>
